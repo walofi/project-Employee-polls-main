@@ -1,8 +1,8 @@
 let users = {
-  hb: {
-    id: "hashim",
+  wa: {
+    id: "waleed",
     password: "111",
-    name: "hashim bagasi",
+    name: "waleed alofi",
     avatarURL: "../../public/avatar/avatar.png",
     answers: {
       "8xf0y6ziyjabvozdd253nd": "optionOne",
@@ -50,10 +50,10 @@ let users = {
 let questions = {
   "8xf0y6ziyjabvozdd253nd": {
     id: "8xf0y6ziyjabvozdd253nd",
-    author: "hb",
+    author: "wa",
     timestamp: 1467166872634,
     optionOne: {
-      votes: ["hb"],
+      votes: ["wa"],
       text: "Build our new application with Javascript",
     },
     optionTwo: {
@@ -76,14 +76,14 @@ let questions = {
   },
   am8ehyc8byjqgar0jgpub9: {
     id: "am8ehyc8byjqgar0jgpub9",
-    author: "hb",
+    author: "wa",
     timestamp: 1488579767190,
     optionOne: {
       votes: [],
       text: "conduct a release retrospective 1 week after a release",
     },
     optionTwo: {
-      votes: ["hb"],
+      votes: ["wa"],
       text: "conduct release retrospectives quarterly",
     },
   },
@@ -96,7 +96,7 @@ let questions = {
       text: "have code reviews conducted by peers",
     },
     optionTwo: {
-      votes: ["hb"],
+      votes: ["wa"],
       text: "have code reviews conducted by managers",
     },
   },
